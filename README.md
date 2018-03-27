@@ -1,4 +1,4 @@
-![Alt]
+![Alt](https://github.com/kristianespina/Equations-Of-State-Calculator/blob/master/eoscalc.png?raw=true "Banner")
 
 # Equations of State Calculator
 written by Kristian Espina as a OBE project for chemical engineering thermodynamics for the second semester of AY 2016-2017
