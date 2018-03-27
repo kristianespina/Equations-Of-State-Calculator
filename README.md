@@ -1,5 +1,7 @@
-# Equations-Of-State-Calculator
-Equations of State Calculator
+![Alt]
+
+# Equations of State Calculator
+written by Kristian Espina as a OBE project for chemical engineering thermodynamics for the second semester of AY 2016-2017
 
 A tool that can help you calculate cubic equations of states.
 
