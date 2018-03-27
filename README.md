@@ -12,3 +12,5 @@ This calculator lets you calculate the compressibility factor and molar volume o
 * Calculation via Redlich-Kwong Equation
 * Calculation via Soave-Redlich-Kwong Equation
 * Calculation via Peng-Robinson
+
+_This project is published as a free app on Amazon App Store_ [Download Link](https://www.amazon.com/dp/B071GTLMK9/ref=docs-os-doi_0)
