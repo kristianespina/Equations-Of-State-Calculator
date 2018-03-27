@@ -1,6 +1,6 @@
 ![Alt](https://github.com/kristianespina/Equations-Of-State-Calculator/blob/master/eoscalc.png?raw=true "Banner")
 
-# <img src="https://github.com/kristianespina/Equations-Of-State-Calculator/blob/master/eoscalc2.png?raw=true" height="64" width="64" /> Equations of State Calculator
+# <img src="https://github.com/kristianespina/Equations-Of-State-Calculator/blob/master/eoscalc2.png?raw=true" height="48" width="48" /> Equations of State Calculator
 written by Kristian Espina as a OBE project for chemical engineering thermodynamics for the second semester of AY 2016-2017
 
 A tool that can help you calculate cubic equations of states.
